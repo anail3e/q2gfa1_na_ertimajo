@@ -3,12 +3,6 @@
     padding: 0px;
 }
 
-@font-face {
-    font-family: 
-    src: 
-}
-
-
 body{
     background-color: #fcfcfc;
 }
@@ -74,7 +68,7 @@ footer{
     text-align: right;
     position: relative;
     padding-top: 5px;
-    margin-top: 14.5vw;
+    margin-top: 11.5vw;
 
 }
 
